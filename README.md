@@ -1,5 +1,4 @@
 # CAR_DEKHO_PROJECT
-Car Dekho Project using Python
 Problem Statement:
 The used car market in India is a dynamic and ever-changing landscape. Prices can fluctuate wildly based on a variety of factors including the make and model of the car, its mileage, its condition and the current market conditions. As a result, it can be difficult for sellers to accurately price their cars.
 
